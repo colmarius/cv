@@ -25,7 +25,7 @@ Attended regularly between 2017-2020 the 3 days retreat in the Swiss mountain al
 
 ## 🏆 Accomplishments
 
-**Won a nomination for FoodPrint** @[Climathon Zürich](https://dach.climate-kic.org/news/climathon-zuerich-24-stunden-fuer-den-klimaschutz/) _Sep 2018_<br>
+**Won a nomination for FoodPrint** @[Climathon Zürich](https://dach.climate-kic.org/news/climathon-zuerich-24-stunden-fuer-den-klimaschutz/) _(Sep 2018)_<br>
 
 Our team built a web prototype that would take a picture of a menu and calculate for each dish the CO2 footprint and water consumption.
 <br><br>
@@ -50,13 +50,13 @@ The only developer in the team, implemented a Ruby-on-Rails prototype of a sofis
 ## 👨🏻‍🎓 Education
 
 **Master** in Computer Science (cum laude)<br>
-[Università degli Studi di Milano](https://www.unimi.it/en) - Milan, Italy _(2008 - 2012)_
+[Università degli Studi di Milano](https://www.unimi.it/en/) - Milan, Italy _(2008 - 2012)_
 
 **Erasmus** exchange student program. Thesis work started here. In addition, done a B1 French course.<br>
-[Université catholique de Louvain](https://www.american.edu/) - Louvain-la-Neuve, Belgium _(Fall 2010)_
+[Université catholique de Louvain](https://uclouvain.be/en/) - Louvain-la-Neuve, Belgium _(Fall 2010)_
 
 **Bachler** in Computer Science<br>
-[Università degli Studi di Milano](https://www.unimi.it/en) - Milan, Italy _(2004 - 2008)_
+[Università degli Studi di Milano](https://www.unimi.it/en/) - Milan, Italy _(2004 - 2008)_
 
 ## 😻 Passions
 
