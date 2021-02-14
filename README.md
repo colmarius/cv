@@ -43,7 +43,7 @@ Worked on [XING Referral Manager](https://recruiting.xing.com/en/products-soluti
 <br><br>
 
 **Lead Software Developer** @ BuddyBroker AG _(May 2015 - Apr 2016)_ <br>
-Note: BuddyBroker was [acquired by XING](https://www.it-markt.ch/news/2016-04-14/xing-kauft-buddybrokerhttps://ledgy.com/) in April 2016.
+BuddyBroker was [acquired by XING](https://www.it-markt.ch/news/2016-04-14/xing-kauft-buddybrokerhttps://ledgy.com/) in April 2016.
 
 Built Eqipia, an automated and intelligent Employee Referral product, together with a small and passionate team of Full-Stack Developers, where I was the first hired employee of the company. The team I was responsible for, was remote located in Switzerland, Germany and Poland.
 
