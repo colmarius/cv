@@ -14,28 +14,23 @@ What I mostly like, is that we are set on a journey that makes it easy for start
 
 ## 🧑🏻‍🏫 Conferences & Meetups
 
-**CodeMotion Milan** @[Conference](https://events.codemotion.com/)
-Attended yearly from 2014-2020. In addition to the 2 day conference, joined yearly 1 or 2 full-day workshops.
+**CodeMotion Milan** @[Conference](https://events.codemotion.com/) Attended yearly from 2014-2020. In addition to the 2 day conference, joined yearly 1 or 2 full-day workshops.
 
-**Coderonly** @[Meetup](https://codersonly.org/)
+**Coderonly** @[Meetup](https://codersonly.org/) Occasional dropping by.
 
-**Socrates Switzerland** @[Conference](https://socrates-ch.org/)
-
-Attended regularly between 2017-2020 the 3 days retreat in the Swiss mountain alps 🫕🧀🛷.
+**Socrates Switzerland** @[Conference](https://socrates-ch.org/) Attended regularly between 2017-2020 the 3 days retreat in the Swiss mountain alps 🫕🧀🛷.
+<br><br>
 
 ## 🏆 Accomplishments
 
 **Won a nomination for FoodPrint** @[Climathon Zürich](https://dach.climate-kic.org/news/climathon-zuerich-24-stunden-fuer-den-klimaschutz/) _(Sep 2018)_<br>
-
 Our team built a web prototype that would take a picture of a menu and calculate for each dish the CO2 footprint and water consumption.
-<br><br>
 
 **Context traits** [Dynamic behaviour adaptation through run-time trait recomposition](https://released.info.ucl.ac.be/Publications/ContextTraitsDynamicBehaviourAdaptationThroughRun-TimeTraitRecomposition) _(Mar 2013)_<br>
 Proceedings of the 12th International Conference on Aspect-Oriented Software Development (AOSD '13)
-<br><br>
 
 **Won 2nd Place with DoneeDonee** @ [Startup Weekend](https://www.startupbusiness.it/amazing-startup-weekend-all-are-winners-2/77326/) _(Feb 2013)_<br>
-The only developer in the team, implemented a Ruby-on-Rails prototype of a sofisticated ecommerce service that reminds and suggest you the right gift for a person.
+The only developer in the team, implemented a Ruby-on-Rails prototype of a mock ecommerce service that reminds and suggest you the right gift for a person.
 <br><br>
 
 ## 💬 Languages
@@ -45,7 +40,7 @@ The only developer in the team, implemented a Ruby-on-Rails prototype of a sofis
 **English**: C2 <br>
 **German**: C1 <br>
 **French**: B1 <br>
-<br><br>
+<br>
 
 ## 👨🏻‍🎓 Education
 
@@ -57,6 +52,7 @@ The only developer in the team, implemented a Ruby-on-Rails prototype of a sofis
 
 **Bachler** in Computer Science<br>
 [Università degli Studi di Milano](https://www.unimi.it/en/) - Milan, Italy _(2004 - 2008)_
+<br><br>
 
 ## 😻 Passions
 
