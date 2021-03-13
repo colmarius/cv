@@ -6,8 +6,8 @@ _A software developer shaped by the world he lives in, originally from Romania, 
 
 ## 👨🏻‍💻 Technical Experience
 
-**Senior Software Egineer** @ [Ledgy](https://ledgy.com/) _(Jun 2019 - Present)_ <br>
-Excited about my journey with Ledgy. As one of the first employees, I am looking forward to have an impact on our mission to “democratise ownership in startups”.
+**Head of Egineering** @ [Ledgy](https://ledgy.com/) _(Jun 2019 - Present)_ <br>
+Excited about my journey with Ledgy. As one of the first employees, joined the company as a Senior Software Engineer, I am looking forward to have an impact on our mission to “democratise ownership in startups”.
 
 What I mostly like, is that we are set on a journey that makes it easy for startup employees to receive stock options and understand their future value. Ledgy is set to build products that brings transparency to the processes that manage all equity in private companies.
 <br><br>
