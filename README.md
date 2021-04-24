@@ -9,7 +9,7 @@ _A software developer shaped by the world he lives in, originally from Romania, 
 **Head of Egineering** @ [Ledgy](https://ledgy.com/) _(Jun 2019 - Present)_ <br>
 Excited about my journey with Ledgy. As one of the first employees, joined the company as a Senior Software Engineer, I am looking forward to have an impact on our mission to “democratise ownership in startups”.
 
-What I mostly like, is that we are set on a journey that makes it easy for startup employees to receive stock options and understand their future value. Ledgy is set to build products that brings transparency to the processes that manage all equity in private companies.
+What I like, is that we are on a journey that facilitates startup employees to receive stock options and understand their future value. Ledgy builds products that bring transparency to the processes that manage all equity in private companies.
 <br><br>
 
 **Full Stack Engineer** @ [On AG](https://www.on-running.com/) _(Mar 2018 - May 2019)_ <br>
