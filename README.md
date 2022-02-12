@@ -2,7 +2,7 @@
 
 _A software developer shaped by the world he lives in, originally from Romania, living in Zürich_ <br>
 
-[Email](mailto:hello@colmarius.net) / [Website](http://colmarius.net/) / [LinkedIn](https://www.linkedin.com/in/mariuscolacioiu/) / [GitHub](https://github.com/colmarius/) / [Twitter](https://twitter.com/colmarius/)
+[Website](http://colmarius.github.io/) / [LinkedIn](https://www.linkedin.com/in/mariuscolacioiu/) / [GitHub](https://github.com/colmarius/)
 
 ## 👨🏻‍💻 Technical Experience
 
