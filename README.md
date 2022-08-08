@@ -1,6 +1,6 @@
 # Marius Colacioiu
 
-_A software developer shaped by the world he lives in, originally from Romania, living in Zürich_ <br>
+_A software developer shaped by the world he lives in, originally from Romania, living in Zürich, Switzerland_ <br>
 
 [Website](http://colmarius.github.io/) / [LinkedIn](https://www.linkedin.com/in/mariuscolacioiu/) / [GitHub](https://github.com/colmarius/)
 
