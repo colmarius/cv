@@ -51,7 +51,7 @@ Worked as part of the Growth team in the Digital Marketing department, a cross-f
 <br><br>
 
 **Engineering Team Lead** @ [XING](https://www.xing.com/) _(Apr 2016 - Feb 2018)_ <br>
-Worked on [XING Referral Manager](https://recruiting.xing.com/en/products-solutions/products/xing-referralmanager), an automated and intelligent employee referral product together with a highly motivated and passionate team of Full-Stack Developers.
+Worked on [XING Referral Manager](https://www.new-work.se/en/newsroom/press-releases/xing-referralmanager-turns-employees-into-headhunters), an automated and intelligent employee referral product together with a highly motivated and passionate team of Full-Stack Developers.
 
 * managed a team of four developers, where together we set and reached daily goals
 * team was responsible for whole development cycle, very few dependencies on other teams
@@ -119,11 +119,11 @@ Starbytes, a software-as-a-service product done mainly with Java technologies, i
 
 ## 🧑🏻‍🏫 Conferences & Meetups
 
-**CodeMotion Milan** @[Conference](https://events.codemotion.com/) Attended yearly from 2014-2020. In addition to the 2 day conference, joined yearly 1 or 2 full-day workshops.
+**CodeMotion Milan** @[Conference](https://events.codemotion.com/) Attended yearly from 2014-2022. In addition to the 2 day conference, joined yearly 1 or 2 full-day workshops.
 
 **Codersonly** @[Meetup](https://codersonly.org/) Occasional dropping by.
 
-**Socrates Switzerland** @[Conference](https://socrates-ch.org/) Attended regularly between 2017-2020 the 3 days retreat in the Swiss mountain alps 🫕🧀🛷.
+**Socrates Switzerland** @[Conference](https://socrates-ch.org/) Attended yearly between 2017-2022 the 3 days retreat in the Swiss mountain alps 🫕🧀🛷.
 <br><br>
 
 ## 🏆 Accomplishments
