@@ -14,7 +14,7 @@ Norm determines the energy efficiency and CO₂ emissions of properties and crea
 
 **Engineering Leader** @ [Ledgy](https://ledgy.com/) _(Jun 2019 - Mar 2023)_ <br>
 
-**Principle Engineer Manager** _(Jan 2022 - Mar 2023)_ <br>
+*Principle Engineer Manager* _(Jan 2022 - Mar 2023)_ <br>
 
 In a hybrid Engineer/Manager role I have contributed to Ledgy’s mission: be the top player in Europe for private equity management.
 
@@ -23,7 +23,7 @@ We grew our Engineering team to 20 engineers, while increasing diversity and tal
 We continued to increase the bar for technical excellence, while coaching each other in order to reach our personal and company objectives.
 <br
 
-**Head of Engineering** _(Mar 2021 - Dec 2021)_ <br>
+*Head of Engineering* _(Mar 2021 - Dec 2021)_ <br>
 
 For most part of 2021, responsible for the success of the Engineering department. Helped with hiring in doubling the team size (~12 engineers), onboard new engineers and coach existing ones to faster progress in their career.
 
@@ -32,7 +32,7 @@ Towards the end of the year, I facilitated the transition towards a new Head of 
 We had a Series A investment in September 2021 from Sequoia Capital.
 <br>
 
-**Senior Software Engineer** _(Jun 2019 - Feb 2021)_ <br>
+*Senior Software Engineer* _(Jun 2019 - Feb 2021)_ <br>
 
 As one of the first employees, joined the company as a Senior Software Engineer, looking to have an impact on Ledgy’s mission to “democratise ownership in startups”.
 
