@@ -2,15 +2,42 @@
 
 _A software developer shaped by the world he lives in, originally from Romania, living in Zürich, Switzerland_ <br>
 
-[Website](http://colmarius.github.io/) / [LinkedIn](https://www.linkedin.com/in/mariuscolacioiu/) / [GitHub](https://github.com/colmarius/)
+[Website](https://marius-colacioiu.com/) / [LinkedIn](https://www.linkedin.com/in/mariuscolacioiu/) / [GitHub](https://github.com/colmarius/)
 
 ## 👨🏻‍💻 Technical Experience
 
-**Principle Engineer Manager** @ [Ledgy](https://ledgy.com/) _(Jun 2019 - Present)_ <br>
-Excited about my journey with Ledgy. As one of the first employees, joined the company as a Senior Software Engineer, I am looking forward to have an impact on our mission to “democratise ownership in startups”.
+**Founder and Head of Engineering** @ [Norm](https://norm.ch/) _(Apr 2023 - Present)_ <br>
 
-What I like, is that we are on a journey that facilitates startup employees to receive stock options and understand their future value. Ledgy builds products that bring transparency to the processes that manage all equity in private companies.
-<br><br>
+On a journey to improve energy efficient living.
+
+Norm determines the energy efficiency and CO₂ emissions of properties and creates specific renovation proposals including subsidy calculations. The data is verified by energy experts, auditable, and accessible via API.
+
+**Engineering Leader** @ [Ledgy](https://ledgy.com/) _(Jun 2019 - Mar 2023)_ <br>
+
+**Principle Engineer Manager** _(Jan 2022 - Mar 2023)_ <br>
+
+In a hybrid Engineer/Manager role I have contributed to Ledgy’s mission: be the top player in Europe for private equity management.
+
+We grew our Engineering team to 20 engineers, while increasing diversity and talent. Managed a team of 6 engineers. Helped run Ledgy’s second traineeship program where 5 trainees started they career on a journey to become Junior Software Engineers.
+
+We continued to increase the bar for technical excellence, while coaching each other in order to reach our personal and company objectives.
+<br
+
+**Head of Engineering** _(Mar 2021 - Dec 2021)_ <br>
+
+For most part of 2021, responsible for the success of the Engineering department. Helped with hiring in doubling the team size (~12 engineers), onboard new engineers and coach existing ones to faster progress in their career.
+
+Towards the end of the year, I facilitated the transition towards a new Head of Engineering responsible for the managing of an ever fast growing Engineering Department.
+
+We had a Series A investment in September 2021 from Sequoia Capital.
+<br>
+
+**Senior Software Engineer** _(Jun 2019 - Feb 2021)_ <br>
+
+As one of the first employees, joined the company as a Senior Software Engineer, looking to have an impact on Ledgy’s mission to “democratise ownership in startups”.
+
+Helped run Ledgy’s first traineeship program where 2 trainees started they career on a journey to become Junior Software Engineers. After two years they were Mid-level Engineers helping with onboarding and hiring.
+<br>
 
 **Full Stack Engineer** @ [On AG](https://www.on-running.com/) _(Mar 2018 - May 2019)_ <br>
 Worked as part of the Growth team in the Digital Marketing department, a cross-functional team made of Full Stack developers, Data Scientists and UI/UX Designers.
