@@ -119,11 +119,11 @@ Starbytes, a software-as-a-service product done mainly with Java technologies, i
 
 ## 🧑🏻‍🏫 Conferences & Meetups
 
-**CodeMotion Milan** @[Conference](https://events.codemotion.com/) Attended yearly from 2014-2022. In addition to the 2 day conference, joined yearly 1 or 2 full-day workshops.
+**CodeMotion Milan** @[Conference](https://events.codemotion.com/) Attended yearly from 2014-present. In addition to the 2 day conference, joined yearly 1 or 2 full-day workshops.
 
 **Codersonly** @[Meetup](https://codersonly.org/) Occasional dropping by.
 
-**Socrates Switzerland** @[Conference](https://socrates-ch.org/) Attended yearly between 2017-2022 the 3 days retreat in the Swiss mountain alps 🫕🧀🛷.
+**Socrates Switzerland** @[Conference](https://socrates-ch.org/) Attended yearly between 2017-present the 3 days retreat in the Swiss mountain alps 🫕🧀🛷.
 <br><br>
 
 ## 🏆 Accomplishments
