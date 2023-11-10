@@ -6,24 +6,24 @@ _A software developer shaped by the world he lives in, originally from Romania, 
 
 ## 👨🏻‍💻 Technical Experience
 
-**Founder and Head of Engineering** @ [Norm](https://norm.ch/) _(Apr 2023 - Present)_ <br>
+**Founder and Head of Engineering** @ [Norm](https://www.norm.ch/en) _(Apr 2023 - Present)_ <br>
 
-On a journey to improve energy efficient living.
+Norm assesses the energy efficiency, CO₂ emissions, and renovation costs of buildings. Integrate Norm’s digital solution into your process to help your customers identify their building’s energy renovation potential.
 
-Norm determines the energy efficiency and CO₂ emissions of properties and creates specific renovation proposals including subsidy calculations. The data is verified by energy experts, auditable, and accessible via API.
+In my role I help build hands-on the foundations that power the Norm products: the infrastructure and the web apps. Working alongside a very small, highly productive engineering team. I enjoy seeing our products evolve and grow on a daily basis.
 
 **Engineering Leader** @ [Ledgy](https://ledgy.com/) _(Jun 2019 - Mar 2023)_ <br>
 
-*Principle Engineer Manager* _(Jan 2022 - Mar 2023)_ <br>
+_Principle Engineer Manager_ _(Jan 2022 - Mar 2023)_ <br>
 
 In a hybrid Engineer/Manager role I have contributed to Ledgy’s mission: be the top player in Europe for private equity management.
 
-We grew our Engineering team to 20 engineers, while increasing diversity and talent. Managed a team of 6 engineers. Helped run Ledgy’s second traineeship program where 5 trainees started they career on a journey to become Junior Software Engineers.
+We grew our Engineering team to 20 engineers, while increasing diversity and talent. Managed a team of 6 engineers. Helped run Ledgy’s second traineeship program where 5 trainees started their career on a journey to become Junior Software Engineers.
 
 We continued to increase the bar for technical excellence, while coaching each other in order to reach our personal and company objectives.
 <br
 
-*Head of Engineering* _(Mar 2021 - Dec 2021)_ <br>
+_Head of Engineering_ _(Mar 2021 - Dec 2021)_ <br>
 
 For most part of 2021, responsible for the success of the Engineering department. Helped with hiring in doubling the team size (~12 engineers), onboard new engineers and coach existing ones to faster progress in their career.
 
@@ -32,42 +32,42 @@ Towards the end of the year, I facilitated the transition towards a new Head of 
 We had a Series A investment in September 2021 from Sequoia Capital.
 <br>
 
-*Senior Software Engineer* _(Jun 2019 - Feb 2021)_ <br>
+_Senior Software Engineer_ _(Jun 2019 - Feb 2021)_ <br>
 
 As one of the first employees, joined the company as a Senior Software Engineer, looking to have an impact on Ledgy’s mission to “democratise ownership in startups”.
 
-Helped run Ledgy’s first traineeship program where 2 trainees started they career on a journey to become Junior Software Engineers. After two years they were Mid-level Engineers helping with onboarding and hiring.
+Helped run Ledgy’s first traineeship program where 2 trainees started their career on a journey to become Junior Software Engineers. After two years they were Mid-level Engineers helping with onboarding and hiring.
 <br>
 
 **Full Stack Engineer** @ [On AG](https://www.on-running.com/) _(Mar 2018 - May 2019)_ <br>
 Worked as part of the Growth team in the Digital Marketing department, a cross-functional team made of Full Stack developers, Data Scientists and UI/UX Designers.
 
-* the team was responsible for understanding better the customers, run experiments and develop features that increase user engagement and conversion rate in the e-commerce web shop.
-* some challenges I faced where to improve the checkout flow and implement saved payment methods or add new payment methods (like ApplePay).
-* improved overall developer experience, particularly proud of faster development time, creating preview environments and faster releases to production of new features.
-* improved the continuous integration pipeline, by adding Codeship and Codeclimate integrations.
-* facilitated the transition on Frontend to use Vue.js & Webpack. Introduced the team to GraphQL for faster building of APIs.
-* on the Backend work was done mainly in Ruby with Spree and Rails web frameworks.
-<br><br>
+- the team was responsible for understanding better the customers, run experiments and develop features that increase user engagement and conversion rate in the e-commerce web shop.
+- some challenges I faced where to improve the checkout flow and implement saved payment methods or add new payment methods (like ApplePay).
+- improved overall developer experience, particularly proud of faster development time, creating preview environments and faster releases to production of new features.
+- improved the continuous integration pipeline, by adding Codeship and Codeclimate integrations.
+- facilitated the transition on Frontend to use Vue.js & Webpack. Introduced the team to GraphQL for faster building of APIs.
+- on the Backend work was done mainly in Ruby with Spree and Rails web frameworks.
+  <br><br>
 
 **Engineering Team Lead** @ [XING](https://www.xing.com/) _(Apr 2016 - Feb 2018)_ <br>
 Worked on [XING Referral Manager](https://www.new-work.se/en/newsroom/press-releases/xing-referralmanager-turns-employees-into-headhunters), an automated and intelligent employee referral product together with a highly motivated and passionate team of Full-Stack Developers.
 
-* managed a team of four developers, where together we set and reached daily goals
-* team was responsible for whole development cycle, very few dependencies on other teams
-* worked on product features and integrations implemented on the whole application stack
-* frontend code was written in Javascript (ES6) mostly React + Redux, bundled with Webpack
-* backend: REST, GraphQL APIs and  business logic mostly written in Ruby
-* tests done with RSpec, complete integration tests written with webdriver.io and browsers tested with BrowserStack
-* internal analytics tracked with Segment.io integrations, end-users behaviour tracked with Mixpanel
-* continuous-integration and deployment pipeline done with Jenkins
-* production code runs with Docker on Marathon/Mesos
-* development tools are automated, docker-compose is used for running services, tests suite speed kept fast
-* daily pair programming and code reviews, regularly pushing the upper limits for code quality
-* helped onboarding and mentoring new team members, organised team events (Un-conference style)
-* closely worked with the Product Owner and supported the Custom Support team when needed
-* traveled often (overall 2-3 months in a year) to Hamburg, Germany and Barcelona, Spain
-<br><br>
+- managed a team of four developers, where together we set and reached daily goals
+- team was responsible for whole development cycle, very few dependencies on other teams
+- worked on product features and integrations implemented on the whole application stack
+- frontend code was written in Javascript (ES6) mostly React + Redux, bundled with Webpack
+- backend: REST, GraphQL APIs and business logic mostly written in Ruby
+- tests done with RSpec, complete integration tests written with webdriver.io and browsers tested with BrowserStack
+- internal analytics tracked with Segment.io integrations, end-users behaviour tracked with Mixpanel
+- continuous-integration and deployment pipeline done with Jenkins
+- production code runs with Docker on Marathon/Mesos
+- development tools are automated, docker-compose is used for running services, tests suite speed kept fast
+- daily pair programming and code reviews, regularly pushing the upper limits for code quality
+- helped onboarding and mentoring new team members, organised team events (Un-conference style)
+- closely worked with the Product Owner and supported the Custom Support team when needed
+- traveled often (overall 2-3 months in a year) to Hamburg, Germany and Barcelona, Spain
+  <br><br>
 
 **Lead Software Developer** @ BuddyBroker AG _(May 2015 - Apr 2016)_ <br>
 BuddyBroker was [acquired by XING](https://www.it-markt.ch/news/2016-04-14/xing-kauft-buddybrokerhttps://ledgy.com/) in April 2016.
@@ -84,38 +84,38 @@ Gild was [acquired by Citadel](https://www.crunchbase.com/acquisition/citadel-ac
 
 Frontend developer on Search team along with other engineers in San Francisco and Milan, Italy. Responsible to build and maintain customer-facing applications known as the Gild Platform.
 
-Mainly worked on Gild's cornerstone search products (Gild Source and Talent Pool). In addition helped built a multi browser extension (Gild Widget), and a new product (Mission Control) that enabled internal teams across the company to better manage accounts and increase sales.
+Mainly worked on Gild’s cornerstone search products (Gild Source and Talent Pool). In addition helped built a multi browser extension (Gild Widget), and a new product (Mission Control) that enabled internal teams across the company to better manage accounts and increase sales.
 
-* went to San Francisco for a full month of Onboarding
-* collaborated with UI/UX designers and Product Managers to implement and deliver new features
-* worked on the Search engine (ElasticSearch) to implement custom fields search, ranking and sorting of profiles (at the time 14 Million)
-* worked with data science team to integrate predictive analytics (Gild Score, Spotlight features) into Gild Source, and present such data on profile pages with interactive charts and nice graphics 
-* spearhead the browser widget extension (Gild Widget), that works on all browsers and gives matches to Gild Source profiles when surfing social networks (like Github, Twitter, LinkedIn etc.)
-* promote inside the team best-practices, and weekly tech events (like Lunch&Learn presentations, Code Kata sessions)
-* help scale the engineering team: participated in technical interviews and on-boarding of new developers (most of them seniors with 10+ years of work experience, one of them was my new manager)
-* improved the Continuous Integration flow by writing tests and deploy jobs (with Jenkins)
-* wrote developer documentation (Wiki), and system/integration tests (with RSpec, Cucumber)
-* created data migration scripts (Mongo) to move functionalities between Gild Platform's applications
-* developed and maintain REST APIs (with Grape)
-<br><br>
+- went to San Francisco for a full month of Onboarding
+- collaborated with UI/UX designers and Product Managers to implement and deliver new features
+- worked on the Search engine (ElasticSearch) to implement custom fields search, ranking and sorting of profiles (at the time 14 Million)
+- worked with data science team to integrate predictive analytics (Gild Score, Spotlight features) into Gild Source, and present such data on profile pages with interactive charts and nice graphics
+- spearhead the browser widget extension (Gild Widget), that works on all browsers and gives matches to Gild Source profiles when surfing social networks (like Github, Twitter, LinkedIn etc.)
+- promote inside the team best-practices, and weekly tech events (like Lunch&Learn presentations, Code Kata sessions)
+- help scale the engineering team: participated in technical interviews and on-boarding of new developers (most of them seniors with 10+ years of work experience, one of them was my new manager)
+- improved the Continuous Integration flow by writing tests and deploy jobs (with Jenkins)
+- wrote developer documentation (Wiki), and system/integration tests (with RSpec, Cucumber)
+- created data migration scripts (Mongo) to move functionalities between Gild Platform’s applications
+- developed and maintain REST APIs (with Grape)
+  <br><br>
 
 **Junior Frontend Developer** @ [Sportboom](https://www.sportboom.it/) _(Nov 2012 - Mar 2013)_ <br>
 Sportboom helps Sport Centres, to promote their activities, and sport lovers, to more easily find the information they need in order to practice the sport they want.
 
-* worked as a Junior developer, doing Ruby and Javascript development
-* collaborated with the founders and the Senior Developer to implement new features
-* learned a lot from the Senior developer who had previous experience working at different startups around the world
-* maintained and evolve the Admin section of our app used by customer support
-* started development one the German web site
-* worked on my first web scraper to load the German cities information into our application
-<br><br>
+- worked as a Junior developer, doing Ruby and Javascript development
+- collaborated with the founders and the Senior Developer to implement new features
+- learned a lot from the Senior developer who had previous experience working at different startups around the world
+- maintained and evolve the Admin section of our app used by customer support
+- started development one the German web site
+- worked on my first web scraper to load the German cities information into our application
+  <br><br>
 
 **Junior Software Developer** @ [Starbytes (Reply)](https://www.starbytes.it/) _(Jul 2012 - Nov 2012)_ <br>
 Starbytes, a software-as-a-service product done mainly with Java technologies, is available for Italian companies looking to use crowdsourcing for developing new digital products and services.
 
-* worked as a Java developer on the Starbytes Team
-* done maintenance work on the crowdsourcing web app
-<br><br>
+- worked as a Java developer on the Starbytes Team
+- done maintenance work on the crowdsourcing web app
+  <br><br>
 
 ## 🧑🏻‍🏫 Conferences & Meetups
 
@@ -132,7 +132,7 @@ Starbytes, a software-as-a-service product done mainly with Java technologies, i
 Our team built a web prototype that would take a picture of a menu and calculate for each dish the CO2 footprint and water consumption.
 
 **Context traits** [Dynamic behaviour adaptation through run-time trait recomposition](https://released.info.ucl.ac.be/Publications/ContextTraitsDynamicBehaviourAdaptationThroughRun-TimeTraitRecomposition) _(Mar 2013)_<br>
-Proceedings of the 12th International Conference on Aspect-Oriented Software Development (AOSD '13)
+Proceedings of the 12th International Conference on Aspect-Oriented Software Development (AOSD ’13)
 
 **Won 2nd Place with DoneeDonee** @ [Startup Weekend](https://www.startupbusiness.it/amazing-startup-weekend-all-are-winners-2/77326/) _(Feb 2013)_<br>
 The only developer in the team, implemented a Ruby-on-Rails prototype of a mock ecommerce service that reminds and suggest you the right gift for a person.
