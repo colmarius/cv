@@ -21,7 +21,7 @@ In a hybrid Engineer/Manager role I have contributed to Ledgy’s mission: be th
 We grew our Engineering team to 20 engineers, while increasing diversity and talent. Managed a team of 6 engineers. Helped run Ledgy’s second traineeship program where 5 trainees started their career on a journey to become Junior Software Engineers.
 
 We continued to increase the bar for technical excellence, while coaching each other in order to reach our personal and company objectives.
-<br
+<br>
 
 _Head of Engineering_ _(Mar 2021 - Dec 2021)_ <br>
 
