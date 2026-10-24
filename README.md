@@ -114,8 +114,8 @@ Starbytes, a software-as-a-service product done mainly with Java technologies, i
 
 I share what I learn through two projects I maintain:
 
-- [With Agents](https://with-agents.dev): a public knowledge base with practical guides and source-backed resources on coding agents, cloud engineering, security, and AI. Site code, articles, and summaries are AI-generated, excluding linked sources and attributed quotations.
-- [dot-agents](https://dot-agents.dev): tools and workflows for keeping plans, decisions, and verification in a repository so the next coding-agent session can continue the work. [Open source on GitHub](https://github.com/colmarius/dot-agents).
+- [With Agents](https://with-agents.dev): my personal knowledge base, shared publicly, with useful resources and practical guides on coding with agents, cloud engineering, security, and AI. Site code, articles, and summaries are AI-generated, excluding linked sources and attributed quotations.
+- [dot-agents](https://dot-agents.dev): a small toolkit for working with coding agents, keeping project instructions, plans, and progress in the repository. Small tasks stay in the conversation. For longer work, it keeps the context in the repository so another session can continue. [Open source on GitHub](https://github.com/colmarius/dot-agents).
 
 ## 🧑🏻‍🏫 Conferences & Meetups
 
