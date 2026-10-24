@@ -1,22 +1,24 @@
 # Marius Colacioiu
 
-_A software developer shaped by the world he lives in, originally from Romania, living in Zürich, Switzerland_ <br>
+_A software engineer and engineering leader who enjoys building products with small teams. Originally from Romania, living in Zürich, Switzerland._ <br>
 
 [Website](https://marius-colacioiu.com/) / [LinkedIn](https://www.linkedin.com/in/mariuscolacioiu/) / [GitHub](https://github.com/colmarius/)
 
 ## 👨🏻‍💻 Technical Experience
 
-**Founder and Head of Engineering** @ [Norm](https://www.norm.ch/en) _(Apr 2023 - Present)_ <br>
+**Founder and Head of Engineering** @ [NORM](https://www.norm.ch/en) _(Apr 2023 - Present)_ <br>
 
-Norm assesses the energy efficiency, CO₂ emissions, and renovation costs of buildings. Integrate Norm’s digital solution into your process to help your customers identify their building’s energy renovation potential.
+NORM brings building information together so property owners can understand their portfolios, plan investments and renovations, and reduce CO₂ emissions. The same structured data helps people and AI agents find information, compare buildings, and prepare decisions.
 
-In my role I help build hands-on the foundations that power the Norm products: the infrastructure and the web apps. Working alongside a very small, highly productive engineering team. I enjoy seeing our products evolve and grow on a daily basis.
+In my role I work hands-on on the foundations that power NORM: the infrastructure and the web apps, alongside a small engineering team. I enjoy seeing our products evolve and grow on a daily basis.
+
+Today I use AI agents to write much of my code. I focus on defining the work, guiding implementation, and checking the results. I still believe less is more, and I care about software that's easy to understand and change.
 
 **Engineering Leader** @ [Ledgy](https://ledgy.com/) _(Jun 2019 - Mar 2023)_ <br>
 
-_Principle Engineer Manager_ _(Jan 2022 - Mar 2023)_ <br>
+_Principal Engineer Manager_ _(Jan 2022 - Mar 2023)_ <br>
 
-In a hybrid Engineer/Manager role I have contributed to Ledgy’s mission: be the top player in Europe for private equity management.
+In a hybrid engineering and management role, I helped build Ledgy’s equity-management platform.
 
 We grew our Engineering team to 20 engineers, while increasing diversity and talent. Managed a team of 6 engineers. Helped run Ledgy’s second traineeship program where 5 trainees started their career on a journey to become Junior Software Engineers.
 
@@ -29,7 +31,7 @@ For most part of 2021, responsible for the success of the Engineering department
 
 Towards the end of the year, I facilitated the transition towards a new Head of Engineering responsible for the managing of an ever fast growing Engineering Department.
 
-We had a Series A investment in September 2021 from Sequoia Capital.
+During my time there, Ledgy announced a [Series A led by Sequoia Capital in September 2021](https://ledgy.com/blog/ledgy-raises-series-a).
 <br>
 
 _Senior Software Engineer_ _(Jun 2019 - Feb 2021)_ <br>
@@ -43,7 +45,7 @@ Helped run Ledgy’s first traineeship program where 2 trainees started their ca
 Worked as part of the Growth team in the Digital Marketing department, a cross-functional team made of Full Stack developers, Data Scientists and UI/UX Designers.
 
 - the team was responsible for understanding better the customers, run experiments and develop features that increase user engagement and conversion rate in the e-commerce web shop.
-- some challenges I faced where to improve the checkout flow and implement saved payment methods or add new payment methods (like ApplePay).
+- improved the checkout flow, implemented saved payment methods, and added payment methods such as Apple Pay.
 - improved overall developer experience, particularly proud of faster development time, creating preview environments and faster releases to production of new features.
 - improved the continuous integration pipeline, by adding Codeship and Codeclimate integrations.
 - facilitated the transition on Frontend to use Vue.js & Webpack. Introduced the team to GraphQL for faster building of APIs.
@@ -51,26 +53,17 @@ Worked as part of the Growth team in the Digital Marketing department, a cross-f
   <br><br>
 
 **Engineering Team Lead** @ [XING](https://www.xing.com/) _(Apr 2016 - Feb 2018)_ <br>
-Worked on [XING Referral Manager](https://www.new-work.se/en/newsroom/press-releases/xing-referralmanager-turns-employees-into-headhunters), an automated and intelligent employee referral product together with a highly motivated and passionate team of Full-Stack Developers.
+Worked on XING Referral Manager, an employee referral product, together with a small team of full-stack developers.
 
-- managed a team of four developers, where together we set and reached daily goals
-- team was responsible for whole development cycle, very few dependencies on other teams
-- worked on product features and integrations implemented on the whole application stack
-- frontend code was written in Javascript (ES6) mostly React + Redux, bundled with Webpack
-- backend: REST, GraphQL APIs and business logic mostly written in Ruby
-- tests done with RSpec, complete integration tests written with webdriver.io and browsers tested with BrowserStack
-- internal analytics tracked with Segment.io integrations, end-users behaviour tracked with Mixpanel
-- continuous-integration and deployment pipeline done with Jenkins
-- production code runs with Docker on Marathon/Mesos
-- development tools are automated, docker-compose is used for running services, tests suite speed kept fast
-- daily pair programming and code reviews, regularly pushing the upper limits for code quality
-- helped onboarding and mentoring new team members, organised team events (Un-conference style)
-- closely worked with the Product Owner and supported the Custom Support team when needed
-- traveled often (overall 2-3 months in a year) to Hamburg, Germany and Barcelona, Spain
+- managed four developers, with responsibility for the whole development cycle and few dependencies on other teams
+- worked on features and integrations across the stack, using React and Redux on the frontend and Ruby, REST, and GraphQL on the backend
+- maintained automated tests and delivery workflows with RSpec, webdriver.io, BrowserStack, Jenkins, and Docker
+- helped onboard and mentor new team members, with daily pair programming and code reviews
+- worked closely with the Product Owner and Customer Support, regularly travelling to Hamburg and Barcelona to work with colleagues
   <br><br>
 
 **Lead Software Developer** @ BuddyBroker AG _(May 2015 - Apr 2016)_ <br>
-BuddyBroker was [acquired by XING](https://www.it-markt.ch/news/2016-04-14/xing-kauft-buddybrokerhttps://ledgy.com/) in April 2016.
+BuddyBroker was [acquired by XING](https://www.it-markt.ch/news/2016-04-14/xing-kauft-buddybroker) in April 2016.
 
 Built Eqipia, an automated and intelligent Employee Referral product, together with a small and passionate team of Full-Stack Developers, where I was the first hired employee of the company. The team I was responsible for, was remote located in Switzerland, Germany and Poland.
 
@@ -117,13 +110,20 @@ Starbytes, a software-as-a-service product done mainly with Java technologies, i
 - done maintenance work on the crowdsourcing web app
   <br><br>
 
+## Writing & Tools
+
+I share what I learn through two projects I maintain:
+
+- [With Agents](https://with-agents.dev): a public knowledge base with practical guides and source-backed resources on coding agents, cloud engineering, security, and AI. Site code, articles, and summaries are AI-generated, excluding linked sources and attributed quotations.
+- [dot-agents](https://dot-agents.dev): tools and workflows for keeping plans, decisions, and verification in a repository so the next coding-agent session can continue the work. [Open source on GitHub](https://github.com/colmarius/dot-agents).
+
 ## 🧑🏻‍🏫 Conferences & Meetups
 
-**CodeMotion Milan** @[Conference](https://events.codemotion.com/) Attended yearly from 2014-present. In addition to the 2 day conference, joined yearly 1 or 2 full-day workshops.
+**CodeMotion Milan** @[Conference](https://events.codemotion.com/) I've attended the two-day conference and full-day workshops over the years, starting in 2014.
 
 **Codersonly** @[Meetup](https://codersonly.org/) Occasional dropping by.
 
-**Socrates Switzerland** @[Conference](https://socrates-ch.org/) Attended yearly between 2017-present the 3 days retreat in the Swiss mountain alps 🫕🧀🛷.
+**Socrates Switzerland** @[Conference](https://socrates-ch.org/) I've enjoyed this three-day retreat in the Swiss Alps over the years, starting in 2017. 🫕🧀🛷
 <br><br>
 
 ## 🏆 Accomplishments
@@ -155,7 +155,7 @@ The only developer in the team, implemented a Ruby-on-Rails prototype of a mock 
 **Erasmus** exchange student program. Thesis work started here. In addition, done a B1 French course.<br>
 [Université catholique de Louvain](https://uclouvain.be/en/) - Louvain-la-Neuve, Belgium _(Fall 2010)_
 
-**Bachler** in Computer Science<br>
+**Bachelor** in Computer Science<br>
 [Università degli Studi di Milano](https://www.unimi.it/en/) - Milan, Italy _(2004 - 2008)_
 <br><br>
 
